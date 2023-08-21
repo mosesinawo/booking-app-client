@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --color-primary: #4c7576;
+    --color-primary-2: #0071c2;
+    --color-border: tomato;
+    --color-secondary: #5a61e9;
+    --size-primary:15px;
+
+}
+/* .reactSlick {
+padding: 50px 70px;
+padding-left: 70px;
+padding-right: 70px;
+margin-top: 30px;
+}
+.reactSlick .slick-arrow {
+display: none !important;
+}
+.reactSlick .sectionMainHeading {
+font-size: 3.5rem;
+font-weight: 800;
+}
+.reactSlick .slider {
+margin-top: 50px;
+}
+.reactSlick .slider .swipe {
+text-align: center;
+font-size: large;
+margin-top: 25px;
+}
+.reactSlick .slider .swipe .fa-angle-double-left {
+margin-right: 10px;
+-webkit-animation: move 3s infinite;
+animation: move 3s infinite;
+}
+.reactSlick .slider .swipe .fa-angle-double-right {
+margin-left: 10px;
+}
+.reactSlick .slider div .singleWork {
+margin: 5px 5px;
+padding: 30px 20px;
+min-height: 550px;
+position: relative;
+color: white;
+}
+.reactSlick .slider div .singleWork .no {
+font-size: x-large;
+font-weight: 700;
+}
+.reactSlick .slider div .singleWork .credit {
+position: absolute;
+bottom: 10px;
+}
+.reactSlick .slider div .singleWork .credit button {
+display: none;
+background-color: #FFF;
+border: 0;
+padding: 5px 10px;
+font-size: large;
+-webkit-transition: background-color 0.5s ease-out;
+transition: background-color 0.5s ease-out;
+}
+.reactSlick .slider div .singleWork .credit button:hover {
+background-color: #00C2FF;
+color: white;
+}
+.reactSlick .slider div .singleWork:hover {
+-webkit-animation-duration: 1s;
+animation-duration: 1s;
+-webkit-filter: contrast(1.2);
+filter: contrast(1.2);
+}
+.reactSlick .slider div .singleWork:hover .credit {
+-webkit-transition: .6s ease;
+transition: .6s ease;
+position: absolute;
+bottom: 10px;
+}
+.reactSlick .slider div .singleWork:hover .credit button {
+display: block;
+} */
+.slick-slide{
+   
+}
+.slick-next{
+right: 10px;
+}
+.slick-prev{
+    z-index: 999;
+    left: 10px;
+}
